@@ -1,5 +1,5 @@
 # Path Planning and Control for Robotic Navigation in MATLAB
-Course: MMAE 501 - Engineering Analysis  
+Course: MMAE 541 - Robotics  
 Completed: Fall 2024
 
 ## Project Overview
